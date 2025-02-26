@@ -6,6 +6,6 @@ This repository holds all my submitions for code asssignments for this course
 
 ## Authors
 
-- [@yaseen-elolemy](https://www.github.com/octokatherine)
+- [@yaseen-elolemy](https://www.github.com/yaseen-elolemy)
 
 
