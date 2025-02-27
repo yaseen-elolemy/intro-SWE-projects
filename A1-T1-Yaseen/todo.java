@@ -127,7 +127,7 @@ public class todo extends item{ //this class is for the list
     void updateStats()
     {
         stats[0] = 0;
-        stats[1] = 1;
+        stats[1] = 0;
         for(int i =0; i < nItems; i++)
         {
             if(items.get(i).status)
